@@ -56,8 +56,7 @@ Power BI dashboard project containing:
 
 # 📸 Dashboard Preview
 
-Add dashboard preview inside the dashboard folder.
-
+https://github.com/analyst-muneeza/Codveda-Technologies-Internship/blob/main/Stock%20Market%20Analysis%20Dashboard/Dashboard.png
 ---
 
 # 📊 Key Skills Demonstrated
