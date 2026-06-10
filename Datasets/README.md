@@ -1,6 +1,6 @@
 # Datasets
 
-This folder contains both raw and cleaned datasets used during the Codveda Technologies Data Analytics Internship projects.
+This folder contains both raw and cleaned CSV datasets used during the Codveda Technologies Data Analytics Internship projects.
 
 ---
 
@@ -9,10 +9,10 @@ This folder contains both raw and cleaned datasets used during the Codveda Techn
 ## 1. House Prediction Dataset
 
 ### Raw Dataset
-- `House Prediction Data Set.xls`
+- `House Prediction Data Set.csv`
 
 ### Cleaned Dataset
-- `Cleaned_House_Prediction.xls`
+- `Cleaned_House_Prediction.csv`
 
 ### Usage
 Used for:
@@ -25,10 +25,10 @@ Used for:
 ## 2. Stock Prices Dataset
 
 ### Raw Dataset
-- `Stock Prices Data Set.xls`
+- `Stock Prices Data Set.csv`
 
 ### Cleaned Dataset
-- `Clean_Stock_Prices_Data.xls`
+- `Clean_Stock_Prices_Data.csv`
 
 ### Usage
 Used for:
@@ -41,12 +41,12 @@ Used for:
 
 These datasets were used to perform:
 - Data Cleaning
-- Statistical Analysis
+- Data Analysis
 - Data Visualization
 - Time Series Analysis
 - Dashboard Development
 
-The cleaned datasets were created after handling missing values, removing duplicates, and improving overall data quality for analysis.
+The cleaned datasets were created after handling missing values, removing duplicate rows, and improving overall data quality for analysis.
 
 ---
 
