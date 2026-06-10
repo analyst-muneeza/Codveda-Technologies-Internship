@@ -50,6 +50,9 @@ The dashboard provides insights into stock market performance using interactive 
 ![Dashboard](Dashboard.png)
 
 ---
+# Summary
+
+![Summary](Stock%20Market%20Analysis%20Dashboard/Summary.png)
 
 # 📌 Key Insights
 
