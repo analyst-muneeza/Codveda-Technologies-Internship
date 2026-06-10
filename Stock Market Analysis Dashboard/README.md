@@ -52,7 +52,7 @@ The dashboard provides insights into stock market performance using interactive 
 ---
 # Summary
 
-![Summary](Stock%20Market%20Analysis%20Dashboard/Summary.png)
+![Summary](https://github.com/analyst-muneeza/Codveda-Technologies-Internship/blob/main/Stock%20Market%20Analysis%20Dashboard/Summary.png)
 
 # 📌 Key Insights
 
