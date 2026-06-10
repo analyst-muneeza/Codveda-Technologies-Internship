@@ -58,6 +58,10 @@ Power BI dashboard project containing:
 
 ![Dashboard](Stock%20Market%20Analysis%20Dashboard/Dashboard.png)
 
+# Summary
+
+![Summary](Stock%20Market%20Analysis%20Dashboard/Summary.png)
+
 ---
 
 # 📊 Key Skills Demonstrated
